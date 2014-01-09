@@ -3,6 +3,11 @@ Introduction
 
 TBD
 
+Data Format
+-----------
+
+TBD / CSV
+
 *Data as of November 6th, 2013*
 
 Everpix Timeline
@@ -20,7 +25,7 @@ Everpix Timeline
 * **July 2012:** Raised Series Seed for $1,000,000 (effective valuation of $7.8M post) with Index Ventures (lead), Strive Capital, Dave McClure / 500 Startups, David Williams, Bertrand Serlet, Gerald Rimer
 * **February / March 2012:** First VC tour
 * **April 2013:** Raised Bridge Note of $525,000 as an “advance" on Series A (1 year maturity, 5% IR, 20% discount, $10M cap - applicable if raising less than $4,000,000) with Index Ventures (lead), Dave McClure / 500 Startups
-* **June / July:** 2013:** Second VC tour
+* **June / July 2013:** Second VC tour
 * **July 2013:** New employee Kyle as Imaging Analyst
 * **August 2013:** Second and a half VC tour
 * **November 2013:** Public announcement of upcoming Everpix shutdown
