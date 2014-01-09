@@ -1,0 +1,12 @@
+Usage,Total
+BoxUsage:cc2.8xlarge,13331.99
+BoxUsage:m1.medium,9532.76
+SpotUsage:cr1.8xlarge,8719.15
+BoxUsage:cc1.4xlarge,7694.69
+SpotUsage:cc2.8xlarge,6153.35
+BoxUsage:c1.medium,3664.2
+BoxUsage:m1.large,3026.57
+SpotUsage:m1.medium,988.23
+SpotUsage:c1.medium,837.3
+SpotUsage:cc1.4xlarge,380.47
+BoxUsage,306.67

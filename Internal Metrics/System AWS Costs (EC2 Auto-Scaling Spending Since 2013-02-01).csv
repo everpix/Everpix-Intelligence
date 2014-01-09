@@ -1,0 +1,26 @@
+Group,On-Demand Instances,Spot Instances,Data Transfer
+demand-thumbnailers,926.62,0.0,4.56
+downloaders,170.95,0.0,4.69
+endpoints,2131.77,0.0,161.21
+processors,5572.79,0.0,10.85
+scheduler-download,721.07,0.0,1.86
+scheduler-export,646.79,0.0,1.46
+scheduler-export-notification-system,75.12,0.0,0.15
+scheduler-notification-system,646.92,0.0,1.5
+scheduler-process,720.95,0.0,2.82
+scheduler-semantic,519.47,0.0,1.34
+scheduler-update,720.96,0.0,4.53
+scheduler-user,720.83,0.0,3.09
+spot-thumbnailers,0.0,430.87,9.56
+system,149.18,0.0,1.38
+thumbnailers,610.28,0.0,1.16
+updaters,463.55,0.0,26.26
+worker-download,465.08,303.95,142.81
+worker-export,0.0,102.48,6.98
+worker-export-notification-system,75.0,0.0,3.26
+worker-notification-system,646.92,0.0,7.23
+worker-process,5347.19,5460.89,124.39
+worker-semantic,210.6,9792.09,161.98
+worker-update,238.55,623.57,547.32
+worker-user,308.03,364.66,271.31
+workers,358.32,0.0,15.74
