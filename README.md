@@ -31,7 +31,7 @@ Building a startup is about taking on a challenge and working countless hours on
 
 With the Everpix shutdown behind us, we had the chance to put together a significant dataset covering our business from fundraising to metrics. We hope this rare and uncensored inside look at the internals of a startup will benefit the startup community.
 
-Here are some example of common startup questions this data helps answering:
+Here are some example of common startup questions this dataset helps answering:
 * What are investment terms for consecutive convertible notes and an equity seed round? What does the end cap table look like? (see [here](Financials.md))
 * How does a Silicon Valley startup spend its raised money during 2 years? (see [here](Financials.md))
 * What does a VC pitch deck look like? (see [here](Presentation Slides/Everpix VC Pitch Deck.pdf))
