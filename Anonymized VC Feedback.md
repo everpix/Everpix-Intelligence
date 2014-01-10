@@ -1,7 +1,7 @@
 Overview
 --------
 
-This document contains the unedited feedback received from VCs who passed during Everpix's Series A tours. Most of the feedback was provided in writing by email, in which case it has been copy pasted here, and sometimes over the phone, in which case conversation notes have been reproduced instead. Notes and comments are in italic.
+This document contains the unedited feedback received from VCs who passed on investing during Everpix's Series A tours. Most of the feedback was provided in writing by email, in which case it has been copy pasted here, and sometimes over the phone, in which case conversation notes have been reproduced instead. Notes and comments are in italic.
 
 This list only includes VCs we met with in the scope of a Series A participation and to whom with officially pitched (some introductions to VCs resulted in a phone call with no in-person follow up meeting but that was rare).	We ended up meeting with most tier 1 and many tier 2 VCs from the Silicon Valley. We almost always got partner level intros and in the vast majority of cases were able to get an in-person meeting within 2 weeks. It's worth noting that very often the in-person meeting with the partner went well over the 45mn to 1h of allocated time as there was a lot of interest about the Everpix team & product.
 
