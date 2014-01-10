@@ -3,7 +3,21 @@ About Everpix
 
 Everpix was created in 2011 with the goal of solving the Photo Mess, an increasingly real pain point in people's life photo collections, through ambitious engineering and user experience.
 
-At the end of 2013, Everpix wasn't able to raise sufficient funding to continue operating and had to shut down. At the time of the announcement on November 5th, 2013, the Everpix platform had 50,000 users and 400 millions photos while generating subscription sales of $40,000 / month during the last 3 months (enough money to cover variable costs, but not the fixed costs of the business).
+At the end of 2013, Everpix wasn't able to raise sufficient funding to continue operating and had to shut down. At the time of the announcement on November 5th, 2013, the Everpix platform had 50,000 signed up users and 400 millions photos while generating subscription sales of $40,000 / month during the last 3 months (enough money to cover variable costs, but not the fixed costs of the business).
+
+*The following metrics are from September 2012, when we started selling subscriptions, to October 2013, the last month before our shutdown announcement.*
+
+![Users](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/users.png)
+
+![Photos](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/photos.png)
+
+![Subscribers](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/subscribers.png)
+
+![Sales](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/sales.png)
+
+![Retention](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/retention.png)
+
+*Retained users: users who used the Web, iOS, Mac, Windows Everpix apps or opened a Flashback email.*
 
 About this Dataset
 ------------------
