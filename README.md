@@ -3,14 +3,13 @@ Introduction
 
 TBD
 
-Here are some example and common startup questions this data helps answering:
-- What are investment terms for consecutive convertible notes and an equity seed round? What does the end cap table look like?
-- How is the raised money spent for a Silicon Valley startup over 2 years?
-- What does a VC pitch deck look like?
-- What reasons do VCs give when they pass?
-- What are the open rate and click rate of transactional and marketing emails?
-
-https://github.com/everpix/Everpix-Intelligence/issues
+Here are some example of common startup questions this data helps answering:
+- What are investment terms for consecutive convertible notes and an equity seed round? What does the end cap table look like? (see below)
+- How is the raised money spent for a Silicon Valley startup over 2 years? (see below)
+- What does a VC pitch deck look like? (see [here](Presentation Slides/Everpix VC Pitch Deck.pdf))
+- What reasons do VCs give when they pass? (see [here](Anonymized VC Feedback.md))
+- What are the open rate and click rate of transactional and marketing emails? (see [here](Internal Metrics/Sendgrid (Emails to Everpix Users).csv))
+- What web traffic does coverage by various outlets generate? (see [here](Public Feedback/Press Coverage.csv) and [here](External Metrics/Daily Website Traffic.csv))
 
 Content & Data Format
 ---------------------
