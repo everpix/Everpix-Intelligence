@@ -1,7 +1,7 @@
 About Everpix
 -------------
 
-Everpix was started in 2011 with the goal of solving the Photo Mess, an increasingly real pain point in people's life photo collections, through ambitious engineering and user experience.
+Everpix was started in 2011 with the goal of solving the Photo Mess, an increasingly real pain point in people's life photo collections, through ambitious engineering and user experience. Our startup was angel and VC funded with $2.3M raised over its lifetime.
 
 After 2 years of research and product development, and although having a very enthousiastic user base of early adopters combined with strong PR momentum, we didn't succeed in raising our Series A in the highly competitive VC funding market. Unable to continue operating our business, we had to announce our upcoming shutdown on November 5th, 2013.
 
