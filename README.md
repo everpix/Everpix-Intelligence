@@ -16,11 +16,13 @@ The following high-level metrics are from September 2012, when we started sellin
 
 ![Photos](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/photos.png)
 
+![Retention](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/retention.png)
+
 ![Subscribers](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/subscribers.png)
 
 ![Sales](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/sales.png)
 
-![Retention](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/retention.png)
+![AWS](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/aws.png)
 
 *Retained users: users who used the Web, iOS, Mac, Windows Everpix apps or opened a Flashback email.*
 
