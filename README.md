@@ -8,7 +8,7 @@ After 2 years of research and product development, and although having a very en
 High-Level Metrics
 ------------------
 
-At the time of the Everpix shutdown announcement, the Everpix platform had 50,000 signed up users (including 7,000 subscribers) and 400 millions photos, while generating subscription sales of $40,000 / month during the last 3 months (i.e. enough money to cover variable costs, but not the fixed costs of the business).
+At the time of its shutdown announcement, the Everpix platform had 50,000 signed up users (including 7,000 subscribers) and 400 millions photos, while generating subscription sales of $40,000 / month during the last 3 months (i.e. enough money to cover variable costs, but not the fixed costs of the business).
 
 The following high-level metrics are from September 2012, when we started selling subscriptions, to October 2013, the last month before our shutdown announcement:
 
