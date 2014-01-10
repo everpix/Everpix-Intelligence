@@ -37,7 +37,10 @@ Here are some example of common startup questions this dataset helps answering:
 * What does a VC pitch deck look like? (see [here](Presentation Slides/Everpix VC Pitch Deck.pdf))
 * What reasons do VCs give when they pass? (see [here](Anonymized VC Feedback.md))
 * What are the open rate and click rate of transactional and marketing emails? (see [here](Internal Metrics/Sendgrid %28Emails to Everpix Users%29.csv))
-* What web traffic does coverage by various outlets generate? (see [here](Public Feedback/Press Coverage.csv) and [here](External Metrics/Daily Website Traffic.csv))
+* What web traffic do various news websites generate? (see [here](Public Feedback/Press Coverage.csv) and [here](External Metrics/Daily Website Traffic.csv))
+* What are the conversion rate from product landing page to sign up for new visitors? (see [here](Internal Metrics/System Users %28First Time Visitors to Web Invites Ratio - Weekly%29.csv))
+* How fast do people purchase a subscription after signing up to a freemium service? (see [here](Internal Metrics/Latencies %28Monthly Subscription Latency in Days - Since March 1st%29.csv) and [here](Internal Metrics/Latencies %28Yearly Subscription Latency in Days - Since March 1st%29.csv))
+* Which countries have higher suscription rates? (see [here](Internal Metrics/User Countries %28Free Users Countries%29.csv) and [here](Internal Metrics/User Countries %28Subscribed Users Countries%29.csv))
 
 The dataset is organized as follow:
 * **[Anonymized VC Feedback.md](Anonymized VC Feedback.md):** Raw unedited feedback from VCs who passed on Everpix
