@@ -1,31 +1,38 @@
 33cube, Inc. Financing Rounds
 -----------------------------
 
-* October 2011 Convertible Note:
-  * Bertrand Serlet and Dave McClure / 500 Startups
-  * $125,000
-  * 1 year maturity
-  * 5% interest rate
-  * 15% discount
-  * $3M cap
-* November 2011 Convertible Note:
-  * Index Ventures (lead), Strive Capital, Dave McClure / 500 Startups, David Williams / 2020 Ventures, Phil O’Brien, Gerald Rimer, Avery Hager, Sol Werdiger, Michael Herf
-  * $675,000
-  * 1 year maturity
-  * 5% interest rate
-  * 20% discount
-  * $5M cap
-* July 2012 Series Seed:
-  * Index Ventures (lead), Strive Capital, Dave McClure / 500 Startups, David Williams, Bertrand Serlet, Gerald Rimer
-  * $1,000,000
-  * Effective valuation of $7.8M post
-* April 2013 Bridge Note:
-  * Index Ventures (lead), Dave McClure / 500 Startups
-  * $525,000
-  * 1 year maturity
-  * 5% interest rate
-  * 20% discount
-  * $10M cap (kicks in if raising less than $4,000,000 at Series A)
+**October 2011 Convertible Note**
+
+* Bertrand Serlet and Dave McClure / 500 Startups
+* $125,000 amount
+* 1 year maturity
+* 5% interest rate
+* 15% discount
+* $3M cap
+
+**November 2011 Convertible Note**
+
+* Index Ventures (lead), Strive Capital, Dave McClure / 500 Startups, David Williams / 2020 Ventures, Phil O’Brien, Gerald Rimer, Avery Hager, Sol Werdiger, Michael Herf
+* $675,000 amount
+* 1 year maturity
+* 5% interest rate
+* 20% discount
+* $5M cap
+
+**July 2012 Series Seed**
+
+* Index Ventures (lead), Strive Capital, Dave McClure / 500 Startups, David Williams, Bertrand Serlet, Gerald Rimer
+* $1,000,000 amount
+* Effective valuation of $7.8M post
+
+**April 2013 Bridge Note**
+
+* Index Ventures (lead), Dave McClure / 500 Startups
+* $525,000 amount
+* 1 year maturity
+* 5% interest rate
+* 20% discount
+* $10M cap (kicks in if raising less than $4,000,000 at Series A)
 
 33cube, Inc. Cap Table
 ----------------------
