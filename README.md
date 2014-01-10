@@ -3,12 +3,27 @@ Introduction
 
 TBD
 
-Data Format
------------
+Here are some example and common startup questions this data helps answering:
+- What are investment terms for consecutive convertible notes and an equity seed round? What does the end cap table look like?
+- How is the raised money spent for a Silicon Valley startup over 2 years?
+- What does a VC pitch deck look like?
+- What reasons do VCs give when they pass?
+- What are the open rate and click rate of transactional and marketing emails?
 
-TBD / CSV
+https://github.com/everpix/Everpix-Intelligence/issues
 
-*Data as of November 6th, 2013*
+Content & Data Format
+---------------------
+
+* **Anonymized VC Feedback.md**: Raw unedited feedback from VCs who passed on Everpix
+* **Public Feedback:** Press articles covering Everpix and user reviews on App Stores
+* **Presentation Slides:** The slides used to introduce Everpix to press and investors along with the latest version of our more extensive VC pitch deck
+* **Internal Metrics:** Raw and computed metrics from our service from photos imported to subscription sales
+* **External Metrics:** Raw metrics retrieved from external systems like Google Analytics or AWS billing
+
+To ensure reusability, data is formatted as [CSV files](https://en.wikipedia.org/wiki/Comma-separated_values) (using UTF-8 text encoding) and with the first row being the column names.
+
+These metrics were "frozen" as of November 6th, 2013 (the day following the announcement of Everpix's shutdown) and represent more than 90% of all available Everpix metrics. Only metrics covered by NDAs with partners or metrics exposing identifiable Everpix users information have been omitted.
 
 Everpix Timeline
 ----------------
