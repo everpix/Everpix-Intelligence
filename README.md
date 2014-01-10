@@ -16,9 +16,11 @@ Content & Data Format
 
 * **[Anonymized VC Feedback.md](Anonymized VC Feedback.md):** Raw unedited feedback from VCs who passed on Everpix
 * **[External Metrics](External Metrics):** Raw metrics retrieved from external systems like Google Analytics or AWS billing
+* **[Financials.md](Financials.md):** High-level financials with fundraising and final P&L.
 * **[Internal Metrics](Internal Metrics):** Raw and computed metrics from our service from photos imported to subscription sales
 * **[Presentation Slides](Presentation Slides):** The slides used to introduce Everpix to press and investors along with the latest version of our more extensive VC pitch deck
 * **[Public Feedback](Public Feedback):** Press articles covering Everpix and user reviews on App Stores
+* **[Timeline & Numbers.md](Timeline & Numbers.md):** Everpix product timeline and numbers
 
 To ensure reusability, data is formatted as [CSV files](https://en.wikipedia.org/wiki/Comma-separated_values) (using UTF-8 text encoding) and with the first row being the column names.
 
