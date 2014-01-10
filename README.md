@@ -43,7 +43,7 @@ Here are some example of common startup questions this dataset helps answering:
 * Which countries have higher suscription rates? (see [here](Internal Metrics/User Countries %28Free Users Countries%29.csv) and [here](Internal Metrics/User Countries %28Subscribed Users Countries%29.csv))
 
 The dataset is organized as follow:
-* **[Anonymized VC Feedback.md](Anonymized VC Feedback.md):** Raw unedited feedback from VCs who passed on Everpix
+* **[Anonymized VC Feedback.md](Anonymized VC Feedback.md):** Unedited feedback from VCs who passed on Everpix
 * **[External Metrics](External Metrics):** Raw metrics retrieved from external systems like Google Analytics or AWS billing
 * **[Financials.md](Financials.md):** High-level financials with fundraising and final P&L
 * **[Internal Metrics](Internal Metrics):** Raw and computed metrics from our service from photos imported to subscription sales
