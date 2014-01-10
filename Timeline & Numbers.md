@@ -39,7 +39,7 @@ Everpix by the Numbers
 ----------------------
 
 * ~6,600 engineering tickets created in [Trac](http://trac.edgewall.org/) (only 350 left open)
-* ~5000 support tickets processed in [Zendesk](http://www.zendesk.com/)
+* ~5,000 support tickets processed in [Zendesk](http://www.zendesk.com/)
 * Lines of code (excluding third-party source code)
   * Obj-C: 57K
   * C++: 56K
