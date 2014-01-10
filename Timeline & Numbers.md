@@ -3,7 +3,7 @@ Everpix Timeline
 
 * **Late spring 2011:** Pierre starts working on prototypes of Everpix
 * **Summer 2011:** Kevin & Wayne join Pierre as co-founders
-* **August 2011:** Official company incorporation
+* **August 2011:** Incorporation of 33cube, Inc.
 * **September 2011:** TechCrunch finalist and public presentation of early concepts of Everpix
 * **October 2011:** Raised Convertible Note of $125,000
 * **November 2011:** Raised Convertible Note of $675,000
