@@ -53,7 +53,7 @@ The dataset is organized as follow:
 * **[Internal Metrics](Internal Metrics):** Raw and computed metrics from our service from photos imported to subscription sales
 * **[Presentation Slides](Presentation Slides):** The slides used to introduce Everpix to press and investors along with the latest version of our more extensive VC pitch deck
 * **[Public Feedback](Public Feedback):** Press articles covering Everpix and user reviews on App Stores
-* **[Google Consumer Surveys](Google Consumer Surveys):** Exclusive consumer research about people's digital photos done with [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home)
+* **[Google Consumer Surveys](Google Consumer Surveys):** Exclusive consumer insight research about people and their photos done with [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home)
 * **[Timeline & Numbers.md](Timeline & Numbers.md):** Everpix product timeline and numbers
 
 The metrics in the dataset were "frozen" as of November 6th, 2013 (the day following the announcement of Everpix's shutdown) and represent more than 90% of all available Everpix metrics. Only metrics covered by NDAs with partners or metrics exposing identifiable Everpix users information have been omitted.
