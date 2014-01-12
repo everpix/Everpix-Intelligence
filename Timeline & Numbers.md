@@ -17,16 +17,16 @@ Everpix Timeline
 * **September 2012:** Everpix open for business; 30 day trial subscription model ($40 / year or $4.99 / month)
 * **October 2012:** Everpix Similar photos feature
 * **November 2012:** Everpix Highlights feature
-* **December 2012:** Everpix universal iOS app; Everpix Windows app
+* **December 2012:** Everpix universal iOS app; Everpix Windows app; First press tour
 
 ---
 
 * **February / March 2013:** First VC tour
-* **March 2013:** Everpix Explore feature; Freemium subscription model with Everpix Free ($49 / year or $4.99 / month)
+* **March 2013:** Everpix Explore feature; Freemium subscription model with Everpix Free ($49 / year or $4.99 / month); Second press tour
 * **April 2013:** Raised Bridge Note of $525,000 as an “advance" on Series A
 * **May 2013:** Memories email feature; Memories app for Mac
 * **June 2013:** Everpix Flashback feature; Redesigned Everpix iOS app version 2.0
-* **June / July 2013:** Second VC tour
+* **June / July 2013:** Second VC tour; Third press tour
 * **July 2013:** New employee Kyle as Imaging Analyst
 * **August 2013:** Everpix Android app
 * **August 2013:** Second and a half VC tour
