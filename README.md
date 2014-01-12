@@ -43,6 +43,8 @@ Here are some example of common startup questions this dataset helps answering:
 * What are the conversion rate from product landing page to sign up for new visitors? (see [here](Internal Metrics/System Users %28First Time Visitors to Web Invites Ratio - Weekly%29.csv))
 * How fast do people purchase a subscription after signing up to a freemium service? (see [here](Internal Metrics/Latencies %28Monthly Subscription Latency in Days - Since March 1st%29.csv) and [here](Internal Metrics/Latencies %28Yearly Subscription Latency in Days - Since March 1st%29.csv))
 * Which countries have higher suscription rates? (see [here](Internal Metrics/User Countries %28Free Users Countries%29.csv) and [here](Internal Metrics/User Countries %28Subscribed Users Countries%29.csv))
+* What frustrates people the most abour their photo collection? (see [here](Google Consumer Surveys/What frustrates you the most about your photo collection.pdf))
+* Do people actually edit their digital photos? (see [here](Google Consumer Surveys/Do you regularly edit your photos.pdf))
 
 The dataset is organized as follow:
 * **[Anonymized VC Feedback.md](Anonymized VC Feedback.md):** Unedited feedback from VCs who passed on Everpix
@@ -51,6 +53,7 @@ The dataset is organized as follow:
 * **[Internal Metrics](Internal Metrics):** Raw and computed metrics from our service from photos imported to subscription sales
 * **[Presentation Slides](Presentation Slides):** The slides used to introduce Everpix to press and investors along with the latest version of our more extensive VC pitch deck
 * **[Public Feedback](Public Feedback):** Press articles covering Everpix and user reviews on App Stores
+* **[Google Consumer Surveys](Google Consumer Surveys):** Exclusive consumer research about people's digital photos done with [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home)
 * **[Timeline & Numbers.md](Timeline & Numbers.md):** Everpix product timeline and numbers
 
 The metrics in the dataset were "frozen" as of November 6th, 2013 (the day following the announcement of Everpix's shutdown) and represent more than 90% of all available Everpix metrics. Only metrics covered by NDAs with partners or metrics exposing identifiable Everpix users information have been omitted.
