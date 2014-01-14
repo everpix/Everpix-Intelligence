@@ -55,7 +55,7 @@ The dataset is organized as follow:
 * **[External Metrics](External Metrics):** Raw metrics retrieved from external systems like Google Analytics or AWS billing
 * **[Financials.md](Financials.md):** High-level financials with fundraising and final P&L
 * **[Internal Metrics](Internal Metrics):** Raw and computed metrics from our service from photos imported to subscription sales
-* **[Investor Reports](Investor Reports):** Montly investor reports detailing the progress, strategy and ups and downs of Everpix from the inside
+* **[Investor Reports](Investor Reports):** Monthly investor reports detailing the progress, strategy and ups and downs of Everpix from the inside
 * **[Online Paid Customer Acquisition Test Results.pdf](Online Paid Customer Acquisition Test Results.pdf):** Results from early test ad campaigns for paid customer acquisition in Summer 2013
 * **[Presentation Slides](Presentation Slides):** The slides used to introduce Everpix to press and investors along with the latest version of our more extensive VC pitch deck
 * **[Product Videos](Product Videos):** Everpix presentation videos made during the product life
