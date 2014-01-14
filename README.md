@@ -31,7 +31,7 @@ Complete Dataset
 
 Building a startup is about taking on a challenge and working countless hours on solving it. Most startups do not make it but rarely do they reveal the story behind, leaving their users often frustrated. Because we wanted the Everpix community to understand some of the dynamics in the startup world and why we had to come to such a painful ending, we worked closely with a reporter from The Verge who chronicled our last couple weeks. The [resulting article](http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup) generated extensive coverage and also some healthy discussions around some of our high-level metrics and financials. There was a lot more internal data we wanted to share but it wasn't the right time or place.
 
-With the Everpix shutdown behind us, we had the chance to put together a significant dataset covering our business from fundraising to metrics. We hope this rare and uncensored inside look at the internals of a startup will benefit the startup community.
+With the Everpix shutdown behind us, we had the chance to put together a significant dataset of hundreds of files covering all aspects of our business. We hope this rare and uncensored inside look at the internals of a startup will benefit the startup community.
 
 Here are some example of common startup questions this dataset helps answering:
 
