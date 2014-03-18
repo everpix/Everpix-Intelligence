@@ -58,8 +58,9 @@ The dataset is organized as follow:
 * **[Investor Reports](Investor Reports):** Monthly investor reports detailing the progress, strategy and ups and downs of Everpix from the inside
 * **[Online Paid Customer Acquisition Test Results.pdf](Online Paid Customer Acquisition Test Results.pdf):** Results from early test ad campaigns for paid customer acquisition in Summer 2013
 * **[Presentation Slides](Presentation Slides):** The slides used to introduce Everpix to press and investors along with the latest version of our more extensive VC pitch deck
+* **[Press Coverage.csv](Press Coverage.csv):** List of press articles covering Everpix
 * **[Product Videos](Product Videos):** Everpix presentation videos made during the product life
-* **[Public Feedback](Public Feedback):** Press articles covering Everpix and user reviews on App Stores
+* **[Public Feedback](Public Feedback):** Everpix user reviews from Apple & Google app stores and tweets following the shutdown announcement
 * **[Google Consumer Surveys](Google Consumer Surveys):** Exclusive consumer insight research about people and their photos done with [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home)
 * **[Timeline & Numbers.md](Timeline & Numbers.md):** Everpix product timeline and numbers
 
