@@ -98,4 +98,4 @@ Expenses |
 &nbsp;&nbsp;&nbsp;&nbsp;Travel Expenses | 30,197.80
 **Total Expenses** | **$2,665,192.34**
  | 
-**Net Operating Income** | **$2,384,224.67**
+**Net Operating Income** | **-$2,384,224.67**
