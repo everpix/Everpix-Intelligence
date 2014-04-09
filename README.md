@@ -37,7 +37,7 @@ Here are some example of common startup questions this dataset helps answering:
 
 * What are investment terms for consecutive convertible notes and an equity seed round? What does the end cap table look like? (see [here](Financials.md))
 * How does a Silicon Valley startup spend its raised money during 2 years? (see [here](Financials.md))
-* What does a VC pitch deck look like? (see [here](Presentation Slides/Everpix VC Pitch Deck.pdf))
+* What does a VC pitch deck look like? (see [here](Presentation Slides))
 * What kinds of reasons do VCs give when they pass? (see [here](Anonymized VC Feedback.md))
 * What are the open rate and click rate of transactional and marketing emails? (see [here](Internal Metrics/Sendgrid %28Emails to Everpix Users%29.csv))
 * What web traffic do various news websites generate? (see [here](Press Coverage.csv) and [here](External Metrics/Daily Website Traffic.csv))
