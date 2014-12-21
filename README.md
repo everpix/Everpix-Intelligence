@@ -12,17 +12,17 @@ At the time of its shutdown announcement, the Everpix platform had 50,000 signed
 
 The following high-level metrics are from September 2012, when we started selling subscriptions, to October 2013, the last month before our shutdown announcement:
 
-![Users](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/users.png)
+![Users](https://raw.github.com/everpix/Everpix-Intelligence/master/_graphs/users.png)
 
-![Photos](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/photos.png)
+![Photos](https://raw.github.com/everpix/Everpix-Intelligence/master/_graphs/photos.png)
 
-![Subscribers](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/subscribers.png)
+![Subscribers](https://raw.github.com/everpix/Everpix-Intelligence/master/_graphs/subscribers.png)
 
-![Sales](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/sales.png)
+![Sales](https://raw.github.com/everpix/Everpix-Intelligence/master/_graphs/sales.png)
 
-![AWS](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/aws.png)
+![AWS](https://raw.github.com/everpix/Everpix-Intelligence/master/_graphs/aws.png)
 
-![Retention](https://raw2.github.com/everpix/Everpix-Intelligence/master/_graphs/retention.png)
+![Retention](https://raw.github.com/everpix/Everpix-Intelligence/master/_graphs/retention.png)
 
 *Retained users: users who used the Web, iOS, Mac, Windows Everpix apps or opened a Flashback email.*
 
