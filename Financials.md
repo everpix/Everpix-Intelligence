@@ -53,10 +53,10 @@ October 19th, 2011 - December 15th, 2013 | Accrual Basis
  | 
 Income | 
 &nbsp;&nbsp;&nbsp;&nbsp;Everpix Subscriptions | 269,974.47
-&nbsp;&nbsp;&nbsp;&nbsp;Refunded Purchases | 2,696.78
+&nbsp;&nbsp;&nbsp;&nbsp;Refunded Purchases | -2,696.78
 &nbsp;&nbsp;&nbsp;&nbsp;Vendor Credits | 7,451.31
 &nbsp;&nbsp;&nbsp;&nbsp;Interest Earned | 573.82
-**Total Income** | **$280,696.38**
+**Total Income** | **$277,999.60**
  | 
 Expenses | 
 &nbsp;&nbsp;&nbsp;&nbsp;Bank Charges | 1,396.70
