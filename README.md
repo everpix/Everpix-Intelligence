@@ -37,17 +37,17 @@ Here are some example of common startup questions this dataset helps answering:
 
 * What are investment terms for consecutive convertible notes and an equity seed round? What does the end cap table look like? (see [here](Financials.md))
 * How does a Silicon Valley startup spend its raised money during 2 years? (see [here](Financials.md))
-* What does a VC pitch deck look like? (see [here](Presentation Slides))
-* What kinds of reasons do VCs give when they pass? (see [here](Anonymized VC Feedback.md))
-* What are the open rate and click rate of transactional and marketing emails? (see [here](Internal Metrics/Sendgrid %28Emails to Everpix Users%29.csv))
-* What web traffic do various news websites generate? (see [here](Press Coverage.csv) and [here](External Metrics/Daily Website Traffic.csv))
-* What are the conversion rate from product landing page to sign up for new visitors? (see [here](Internal Metrics/System Users %28First Time Visitors to Web Invites Ratio - Weekly%29.csv))
-* How fast do people purchase a subscription after signing up to a freemium service? (see [here](Internal Metrics/Latencies %28Monthly Subscription Latency in Days - Since March 1st%29.csv) and [here](Internal Metrics/Latencies %28Yearly Subscription Latency in Days - Since March 1st%29.csv))
-* Which countries have higher suscription rates? (see [here](Internal Metrics/User Countries %28Free Users Countries%29.csv) and [here](Internal Metrics/User Countries %28Subscribed Users Countries%29.csv))
-* What frustrates people the most abour their photo collection? (see [here](Google Consumer Surveys/What frustrates you the most about your photo collection.pdf))
-* Do people actually edit their digital photos? (see [here](Google Consumer Surveys/Do you regularly edit your photos.pdf))
-* What would it take to acquire customers through online ads in such a business? (see [here](Online Paid Customer Acquisition Test Results.pdf))
-* How much price sensitive are consumers for such online services i.e. what's the price elasticity? (see [here](Investor Reports/2012-11.md))
+* What does a VC pitch deck look like? (see [here](Presentation%20Slides))
+* What kinds of reasons do VCs give when they pass? (see [here](Anonymized%20VC%20Feedback.md))
+* What are the open rate and click rate of transactional and marketing emails? (see [here](Internal%20Metrics/Sendgrid%20(Emails%20to%20Everpix%20Users).csv))
+* What web traffic do various news websites generate? (see [here](Press%20Coverage.csv) and [here](External%20Metrics/Daily%20Website%20Traffic.csv))
+* What are the conversion rate from product landing page to sign up for new visitors? (see [here](Internal%20Metrics/System%20Users%20%28First%20Time%20Visitors%20to%20Web%20Invites%20Ratio%20-%20Weekly%29.csv))
+* How fast do people purchase a subscription after signing up to a freemium service? (see [here](Internal%20Metrics/Latencies%20%28Monthly%20Subscription%20Latency%20in%20Days%20-%20Since%20March%201st%29.csv) and [here](Internal%20Metrics/Latencies%20%28Yearly%20Subscription%20Latency%20in%20Days%20-%20Since%20March%201st%29.csv))
+* Which countries have higher suscription rates? (see [here](Internal%20Metrics/User%20Countries%20%28Free%20Users%20Countries%29.csv) and [here](Internal%20Metrics/User%20Countries%20(Subscribed%20Users%20Countries).csv))
+* What frustrates people the most abour their photo collection? (see [here](Google%20Consumer%20Surveys/What%20frustrates%20you%20the%20most%20about%20your%20photo%20collection.pdf))
+* Do people actually edit their digital photos? (see [here](Google%20Consumer%20Surveys/Do%20you%20regularly%20edit%20your%20photos.pdf))
+* What would it take to acquire customers through online ads in such a business? (see [here](Online%20Paid%20Customer%20Acquisition%20Test%20Results.pdf))
+* How much price sensitive are consumers for such online services i.e. what's the price elasticity? (see [here](Investor%20Reports/2012-11.md))
 
 The dataset is organized as follow:
 
