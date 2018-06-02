@@ -51,18 +51,18 @@ Here are some example of common startup questions this dataset helps answering:
 
 The dataset is organized as follow:
 
-* **[Anonymized VC Feedback.md](Anonymized VC Feedback.md):** Unedited feedback from VCs who passed on Everpix
-* **[External Metrics](External Metrics):** Raw metrics retrieved from external systems like Google Analytics or AWS billing
+* **[Anonymized VC Feedback.md](Anonymized%20VC%20Feedback.md):** Unedited feedback from VCs who passed on Everpix
+* **[External Metrics](External%20Metrics):** Raw metrics retrieved from external systems like Google Analytics or AWS billing
 * **[Financials.md](Financials.md):** High-level financials with fundraising and final P&L
-* **[Internal Metrics](Internal Metrics):** Raw and computed metrics from our service from photos imported to subscription sales
-* **[Investor Reports](Investor Reports):** Monthly investor reports detailing the progress, strategy and ups and downs of Everpix from the inside
-* **[Online Paid Customer Acquisition Test Results.pdf](Online Paid Customer Acquisition Test Results.pdf):** Results from early test ad campaigns for paid customer acquisition in Summer 2013
-* **[Presentation Slides](Presentation Slides):** The slides used to introduce Everpix to press and investors along with the latest version of our more extensive VC pitch deck
-* **[Press Coverage.csv](Press Coverage.csv):** List of press articles covering Everpix
-* **[Product Videos](Product Videos):** Everpix presentation videos made during the product life
-* **[Public Feedback](Public Feedback):** Everpix user reviews from Apple & Google app stores and tweets following the shutdown announcement
-* **[Google Consumer Surveys](Google Consumer Surveys):** Exclusive consumer insight research about people and their photos done with [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home)
-* **[Timeline & Numbers.md](Timeline & Numbers.md):** Everpix product timeline and numbers
+* **[Internal Metrics](Internal%20Metrics):** Raw and computed metrics from our service from photos imported to subscription sales
+* **[Investor Reports](Investor%20Reports):** Monthly investor reports detailing the progress, strategy and ups and downs of Everpix from the inside
+* **[Online Paid Customer Acquisition Test Results.pdf](Online%20Paid%20Customer%20Acquisition%20Test%20Results.pdf):** Results from early test ad campaigns for paid customer acquisition in Summer 2013
+* **[Presentation Slides](Presentation%20Slides):** The slides used to introduce Everpix to press and investors along with the latest version of our more extensive VC pitch deck
+* **[Press Coverage.csv](Press%20Coverage.csv):** List of press articles covering Everpix
+* **[Product Videos](Product%20Videos):** Everpix presentation videos made during the product life
+* **[Public Feedback](Public%20Feedback):** Everpix user reviews from Apple & Google app stores and tweets following the shutdown announcement
+* **[Google Consumer Surveys](Google%20Consumer%20Surveys):** Exclusive consumer insight research about people and their photos done with [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home)
+* **[Timeline & Numbers.md](Timeline%20%26%20Numbers.md):** Everpix product timeline and numbers
 
 The metrics in the dataset were "frozen" as of November 6th, 2013 (the day following the announcement of Everpix's shutdown) and represent more than 90% of all available Everpix metrics. Only metrics covered by NDAs with partners or metrics exposing identifiable Everpix users information have been omitted.
 
